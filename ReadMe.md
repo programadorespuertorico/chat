@@ -15,4 +15,4 @@ Comunicarse es bien sencillo. Solo tienes que generar un Issue. Comparte tu inqu
 
 Para este tipo de comunicación puedes usar el grupo en [Facebook](https://www.facebook.com/groups/programadorespuertorico/) o los canales de [Slack](https://prdevelopers.herokuapp.com/) y [Gitter](https://gitter.im/programadorespuertorico/chat).
 
-#HappyCoding
+HappyCoding!
